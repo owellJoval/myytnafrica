@@ -269,7 +269,7 @@ const Home = () => {
 </div>
               <p className="text-gray-400">
                 Professional music distribution, licensing, and publishing
-                services for artists worldwide based in Namibia. We are currently looking for Sponsers/ Investor to help us reach this goal and help Namibian Artist. Please Call 0812320168
+                services for artists worldwide based in Namibia. We are currently looking for Sponsors/ Investor to help us reach this goal and help Namibian Artist. Please Call 0812320168
               </p>
             </div>
 
